@@ -14,9 +14,9 @@ function countPositivesSumNegatives(input) {
   
       for (let i = 0; i < input.length; i++){
           if (input[i] > 0) {
-              positiveCount++;
+              positiveCount++
           } else if (input[i] < 0){
-              negativeSum += input[i];
+              negativeSum += input[i]
           }
       }
   
