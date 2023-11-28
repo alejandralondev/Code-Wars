@@ -9,4 +9,4 @@ function countSheeps(sheep) {
     }
   
     return count;
-}
+} 

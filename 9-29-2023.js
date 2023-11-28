@@ -21,4 +21,4 @@ function baseCost(days, rate) {
       return 0;
     }
   }
-  
+   

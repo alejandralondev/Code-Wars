@@ -16,4 +16,4 @@ function abbrevName(name){
       
       //return the initials separated by a dot
       return `${firstInitial}.${lastInitial}`;
-  }
+  } 

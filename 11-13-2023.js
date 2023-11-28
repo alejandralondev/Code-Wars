@@ -23,4 +23,4 @@ function getGrade(score1, score2, score3) {
     } else {
         return 'F'
     }
-}
+} 

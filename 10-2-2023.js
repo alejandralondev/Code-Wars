@@ -7,3 +7,5 @@ function opposite(number) {
   // The function will stop the execution when the return statement is called and return a specific value. 
   // The return statement should be the last statement of the function because the code after the return statement won't be accessible
   // by multiplying the number by a negative one we get the opposite, the numbers negative value
+
+  // Take an array and remove every second element from the array. Always keep the first element and start removing with the next element
