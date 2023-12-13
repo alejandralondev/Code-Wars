@@ -24,3 +24,4 @@ function calculateYears(principal, interest, tax, desired) {
       Math.log(desired / principal) / 
       Math.log(1 + interest * (1 - tax))
     );
+}
